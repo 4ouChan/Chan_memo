@@ -3,7 +3,6 @@ package com.example.memo.controller;
 import com.example.memo.dto.MemoRequestDto;
 import com.example.memo.dto.MemoResponseDto;
 import com.example.memo.entity.Memo;
-import lombok.Getter;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
